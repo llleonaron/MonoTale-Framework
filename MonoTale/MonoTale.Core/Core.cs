@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using MonoTale.Core.Components.Battle;
 using MonoTale.Core.Common.ObjectManagement;
 
 namespace MonoTale.Core;
@@ -65,6 +66,10 @@ public class Core: Game
 
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
+        var objBattleHeart = new Heart(160, 160, 0);
+        
+        _objectManager.AddObject(objBattleHeart);
+        
         _objectManager.LoadContent(GraphicsDevice, Content);
     }
 
