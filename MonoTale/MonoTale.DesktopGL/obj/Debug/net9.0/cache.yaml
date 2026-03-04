@@ -1,0 +1,180 @@
+Content/MGSPR_BattleHeartDownOutlined_00.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartDownOutlined_00.png: 2026-02-03T05:01:59.6196655Z
+  outputs:
+    Content/MGSPR_BattleHeartDownOutlined_00.xnb: 2026-02-03T05:04:10.0410246Z
+Content/MGSPR_BattleHeartDownOutlined_01.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartDownOutlined_01.png: 2026-02-03T05:01:59.6362236Z
+  outputs:
+    Content/MGSPR_BattleHeartDownOutlined_01.xnb: 2026-02-03T05:04:10.0750247Z
+Content/MGSPR_BattleHeartLeftOutlined_00.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartLeftOutlined_00.png: 2026-02-03T05:01:59.6493047Z
+  outputs:
+    Content/MGSPR_BattleHeartLeftOutlined_00.xnb: 2026-02-03T05:04:10.0840247Z
+Content/MGSPR_BattleHeartLeftOutlined_01.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartLeftOutlined_01.png: 2026-02-03T05:01:59.6603140Z
+  outputs:
+    Content/MGSPR_BattleHeartLeftOutlined_01.xnb: 2026-02-03T05:04:10.0920247Z
+Content/MGSPR_BattleHeartRightOutlined_00.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartRightOutlined_00.png: 2026-02-03T05:01:59.6723206Z
+  outputs:
+    Content/MGSPR_BattleHeartRightOutlined_00.xnb: 2026-02-03T05:04:10.1010247Z
+Content/MGSPR_BattleHeartRightOutlined_01.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartRightOutlined_01.png: 2026-02-03T05:01:59.6896882Z
+  outputs:
+    Content/MGSPR_BattleHeartRightOutlined_01.xnb: 2026-02-03T05:04:10.1090248Z
+Content/MGSPR_BattleHeartUpOutlined_00.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartUpOutlined_00.png: 2026-02-03T05:01:59.7057385Z
+  outputs:
+    Content/MGSPR_BattleHeartUpOutlined_00.xnb: 2026-02-03T05:04:10.1180248Z
+Content/MGSPR_BattleHeartUpOutlined_01.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleHeartUpOutlined_01.png: 2026-02-03T05:01:59.7223032Z
+  outputs:
+    Content/MGSPR_BattleHeartUpOutlined_01.xnb: 2026-02-03T05:04:10.1270248Z
+Content/MGSPR_BattleBoardSliceable.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    MGSPR_BattleBoardSliceable.png: 2026-02-05T05:26:46.0798875Z
+  outputs:
+    Content/MGSPR_BattleBoardSliceable.xnb: 2026-02-05T05:29:19.4002595Z

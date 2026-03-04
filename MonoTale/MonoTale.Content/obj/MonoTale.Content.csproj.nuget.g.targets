@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)monogame.tool.ffprobe\7.0.0.9\build\MonoGame.Tool.FFprobe.targets" Condition="Exists('$(NuGetPackageRoot)monogame.tool.ffprobe\7.0.0.9\build\MonoGame.Tool.FFprobe.targets')" />
+    <Import Project="$(NuGetPackageRoot)monogame.tool.ffmpeg\7.0.0.9\build\MonoGame.Tool.FFmpeg.targets" Condition="Exists('$(NuGetPackageRoot)monogame.tool.ffmpeg\7.0.0.9\build\MonoGame.Tool.FFmpeg.targets')" />
+    <Import Project="$(NuGetPackageRoot)monogame.tool.dxc\1.8.2505.10\build\MonoGame.Tool.Dxc.targets" Condition="Exists('$(NuGetPackageRoot)monogame.tool.dxc\1.8.2505.10\build\MonoGame.Tool.Dxc.targets')" />
+    <Import Project="$(NuGetPackageRoot)monogame.tool.crunch\1.0.4.5\build\MonoGame.Tool.Crunch.targets" Condition="Exists('$(NuGetPackageRoot)monogame.tool.crunch\1.0.4.5\build\MonoGame.Tool.Crunch.targets')" />
+    <Import Project="$(NuGetPackageRoot)monogame.tool.basisu\1.60.0.3\build\MonoGame.Tool.Basisu.targets" Condition="Exists('$(NuGetPackageRoot)monogame.tool.basisu\1.60.0.3\build\MonoGame.Tool.Basisu.targets')" />
+  </ImportGroup>
+</Project>

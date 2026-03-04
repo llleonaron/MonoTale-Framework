@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "MonoTale (DesktopGL)",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/MonoTale.DesktopGL/MonoTale.DesktopGL.csproj",
+            "preLaunchTask": "Build: MonoTale.DesktopGL"
+        },
+        {
+            "name": "MonoTale (DesktopVK)",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/MonoTale.DesktopVK/MonoTale.DesktopVK.csproj",
+            "preLaunchTask": "Build: MonoTale.DesktopVK"
+        },
+        {
+            "name": "MonoTale (WindowsDX12)",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/MonoTale.WindowsDX12/MonoTale.WindowsDX12.csproj",
+            "preLaunchTask": "Build: MonoTale.WindowsDX12"
+        },
+        {
+            "name": "MonoTale (Android / iOS)",
+            "type": "maui",
+            "request": "launch",
+            "preLaunchTask": "maui: Build"
+        }
+    ]
+}

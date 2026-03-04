@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Folder Name="/Platforms/">
+    <Project Path="MonoTale.DesktopGL/MonoTale.DesktopGL.csproj" />
+    <Project Path="MonoTale.DesktopVK/MonoTale.DesktopVK.csproj" />
+  </Folder>
+  <Project Path="MonoTale.Content/MonoTale.Content.csproj" />
+  <Project Path="MonoTale.Core/MonoTale.Core.csproj" />
+</Solution>

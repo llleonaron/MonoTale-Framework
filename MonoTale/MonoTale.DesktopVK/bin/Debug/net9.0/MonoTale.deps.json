@@ -1,0 +1,106 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MonoTale/1.0.0": {
+        "dependencies": {
+          "MonoGame.Framework.Native": "3.8.5-preview.3",
+          "MonoGame.Runtime.Linux.Vulkan": "3.8.5-preview.3",
+          "MonoGame.Runtime.Mac.Vulkan": "3.8.5-preview.3",
+          "MonoGame.Runtime.Windows.Vulkan": "3.8.5-preview.3",
+          "MonoTale.Core": "1.0.0"
+        },
+        "runtime": {
+          "MonoTale.dll": {}
+        }
+      },
+      "MonoGame.Framework.Native/3.8.5-preview.3": {
+        "runtime": {
+          "lib/netstandard2.1/MonoGame.Framework.dll": {
+            "assemblyVersion": "3.8.5.0",
+            "fileVersion": "3.8.5.0"
+          }
+        }
+      },
+      "MonoGame.Runtime.Linux.Vulkan/3.8.5-preview.3": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libmgruntime.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MonoGame.Runtime.Mac.Vulkan/3.8.5-preview.3": {
+        "runtimeTargets": {
+          "runtimes/osx/native/libmgruntime.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MonoGame.Runtime.Windows.Vulkan/3.8.5-preview.3": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/mgruntime.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MonoTale.Core/1.0.0": {
+        "runtime": {
+          "MonoTale.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonoTale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonoGame.Framework.Native/3.8.5-preview.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eovqsIQEoQ/d2DBTqjou8sLqtMtIbPQVG2w6qxYgJFGDzg9LygQwgfvOkmTjDKYiNWzh1zRvWkVTQX7yH17ppw==",
+      "path": "monogame.framework.native/3.8.5-preview.3",
+      "hashPath": "monogame.framework.native.3.8.5-preview.3.nupkg.sha512"
+    },
+    "MonoGame.Runtime.Linux.Vulkan/3.8.5-preview.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O1IA0qe5etMy34z6eOZix2VfNVIp5OQC1Wh1bR1q7jY+DfUB6Rqqhhu3PRKSSolz2DzWwWj/UDstpdGXcUm2bw==",
+      "path": "monogame.runtime.linux.vulkan/3.8.5-preview.3",
+      "hashPath": "monogame.runtime.linux.vulkan.3.8.5-preview.3.nupkg.sha512"
+    },
+    "MonoGame.Runtime.Mac.Vulkan/3.8.5-preview.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6wCeti6g5zCNcEBXYLEExO3KYC57ZDL4b3/C0lVcpj5T4CUt+7e/DYQHP61DBtravqC0vBxxwJnshcq1Pbm1aw==",
+      "path": "monogame.runtime.mac.vulkan/3.8.5-preview.3",
+      "hashPath": "monogame.runtime.mac.vulkan.3.8.5-preview.3.nupkg.sha512"
+    },
+    "MonoGame.Runtime.Windows.Vulkan/3.8.5-preview.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-koqjKJm4tp7rXdXLkBJJEkviqCAo6Io9HmqiHRr+puWLA8xjA+Os3CdARUbcmqJYBmZX0Ea0UreEcvDh6IsYFA==",
+      "path": "monogame.runtime.windows.vulkan/3.8.5-preview.3",
+      "hashPath": "monogame.runtime.windows.vulkan.3.8.5-preview.3.nupkg.sha512"
+    },
+    "MonoTale.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

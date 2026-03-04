@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Platforms>AnyCPU</Platforms>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.Native" Version="3.8.5-preview.*">
+      <PrivateAssets>All</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Common\InputExtension\" />
+    <Folder Include="Components\Camera\" />
+    <Folder Include="Components\Collision\" />
+    <Folder Include="Components\Cutscene\" />
+    <Folder Include="Components\Dialogue\" />
+    <Folder Include="Components\Inventory\" />
+    <Folder Include="Components\Menu\" />
+    <Folder Include="Components\Phone\" />
+    <Folder Include="Components\Route\" />
+    <Folder Include="Components\Save\" />
+    <Folder Include="Components\Shop\" />
+  </ItemGroup>
+</Project>
