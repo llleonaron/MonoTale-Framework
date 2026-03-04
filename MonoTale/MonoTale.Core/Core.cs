@@ -65,9 +65,11 @@ public class Core: Game
         _internalGameRenderer = new RenderTarget2D(GraphicsDevice, 320, 240);
 
         _spriteBatch = new SpriteBatch(GraphicsDevice);
-
+        
+        var objBattleBoard = new Board(0, 0, 0, 0);
         var objBattleHeart = new Heart(160, 160, 0);
         
+        _objectManager.AddObject(objBattleBoard);
         _objectManager.AddObject(objBattleHeart);
         
         _objectManager.LoadContent(GraphicsDevice, Content);

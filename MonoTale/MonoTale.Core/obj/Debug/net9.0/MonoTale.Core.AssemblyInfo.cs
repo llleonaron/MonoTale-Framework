@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonoTale.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97124ecada65484515f1ac3e13ae0e7a746745b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28ec41c0f005f90d59b284faf9d105212e68026c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonoTale.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonoTale.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
